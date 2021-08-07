@@ -1,5 +1,5 @@
 # MetzgarColleagues
-Raw data and R code for Metzgar et al
+R code for Metzgar et al
 
 ## First-level analysis ##
 'MetzgarColleagues_ActionDisconnection_MedianSplit.R' is the code to reproduce the findings in the first-level analysis. 
